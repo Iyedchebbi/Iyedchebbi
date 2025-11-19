@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Iyedchebbi/Iyedchebbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Iyed Chebbi, an embedded software engineer based in Tunisia.
 
-Here are some ideas to get you started:
+I work with STM32 ARM Cortex microcontrollers and embedded Linux on Raspberry Pi 🧠🔧.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build robotics and AI automation systems using n8n to turn complex tasks into smooth workflows 🤖⚙️.
+
+I’m in a 2026 coding vibe, where I build clever AI tricks and push creative boundaries 💡💻.
+
+Fun facts: 
+-I love gaming 🎮
+-I’m a proud FC Barcelona fan 🔵🔴
+-and I bike almost everywhere 🚴‍♂️.
