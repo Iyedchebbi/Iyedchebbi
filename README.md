@@ -1,37 +1,15 @@
-🚀 Hey, I’m Iyed Chebbi
+Hey 👋 I’m Iyed Chebbi — an Embedded Software Engineer from Tunisia with a vibe coder mindset.
 
-👨‍💻 Embedded Software Engineer from 🇹🇳 Tunisia
-⚡ Vibe Coder | Automation Builder | AI Explorer
+I build smart systems where hardware, software, and AI work together. From STM32 ARM Cortex microcontrollers to Embedded Linux on Raspberry Pi, I design robotics and AI automation that actually thinks. I use n8n to turn complex processes into clean, hands-free workflows that just run.
 
-🧠 What I Do
+I code with a 2026 futuristic energy — mixing engineering logic with creativity, experimenting with clever AI tricks, and pushing boundaries every day.
 
-🔹 Work with STM32 ARM Cortex microcontrollers
-🔹 Build systems on Embedded Linux & Raspberry Pi 🐧🍓
-🔹 Design Robotics & AI Automation Systems 🤖
-🔹 Use n8n 🔗 to turn complex workflows into smooth, hands-free automation
+Beyond embedded systems, I also craft modern websites and digital experiences. Recently, I built:
 
-🚀 My Coding Vibe
+🌍 A website for a Romanian home-cleaning startup
 
-💻 2026 futuristic mindset
-🔥 Clever AI tricks + creative engineering
-🧩 I solve problems and make machines think, talk, and act
+🏜️ A website for Elarich Tozeur, a residence based in Tozeur, Tunisia
 
-🌐 Web & Digital Projects
+When I’m not engineering systems, I’m creating cinematic AI videos, gaming to recharge, or thinking about how to make machines smarter.
 
-🧼 Built a website for a Romanian home-cleaning startup
-🏜️ Built a website for Elarich Tozeur, a residence in Tozeur, Tunisia
-
-🎥 Creative Side
-
-🎬 AI Video Creator (Hobby Level, Passion Level: MAX)
-✨ Turning ideas into cinematic, AI-powered stories
-
-🎮 Fun Facts
-
-🎮 Gaming = energy boost
-⚽ FC Barcelona fan — Visca Barça! 🔵🔴
-📡 I love building things that communicate, automate, and evolve
-
-💬 My Motto
-
-🚀 I don’t just code — I build smart systems for the future.
+I don’t just write code — I build systems that communicate, automate, and evolve.
