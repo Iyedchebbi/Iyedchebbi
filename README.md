@@ -1,4 +1,4 @@
-Hey 👋 I’m Iyed Chebbi — an Embedded Software Engineer from Tunisia with a vibe coder mindset.
+Hey 👋 I’m Iyed Chebbi — an Embedded Software Engineer from Tunisia with a ai mindset.
 
 I build smart systems where hardware, software, and AI work together.I design robotics and AI automation that actually thinks. I use n8n workflows to turn complex processes into clean, hands-free workflows that just run.
 
