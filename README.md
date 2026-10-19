@@ -1,7 +1,15 @@
-🚀 Hi, I'm **Iyed Chebbi from Tunisia**, a technology enthusiast holding a diploma in IoT and Advanced Technologies, passionate about building intelligent solutions at the intersection of AI and innovation. 
+# 🚀 Hi, I'm Iyed Chebbi 
 
-My journey started with **Artificial Intelligence and Computer Vision**, leading me into freelance AI development and creative video production. Today, as a **Web Architect & Developer**, I've built **70+ modern, high-quality websites**, turning business ideas into impactful digital experiences through web development and vibe coding. 
+I'm a technology enthusiast holding a **diploma in IoT and Advanced Technologies**, passionate about building intelligent solutions at the intersection of AI and innovation.
 
-**Beyond the web**, I'm exploring the future of **Agentic AI**, developing RAG-powered applications, fine-tuning models, and orchestrating multi-agent systems. 
+### 💻 Web Development & AI
 
-**My mission** is to transform ambitious ideas into intelligent, scalable solutions that solve real-world problems and push the boundaries of technology.
+My journey started with **Artificial Intelligence and Computer Vision**, leading me into freelance AI development and creative video production. Today, as a **Web Architect & Developer**, I've built **70+ modern, high-quality websites**, transforming business ideas into impactful digital experiences through web development and vibe coding.
+
+### 🤖 Exploring Agentic AI
+
+Beyond the web, I'm exploring the future of **Agentic AI**, developing RAG-powered applications, fine-tuning models, and orchestrating multi-agent systems.
+
+### 🎯 My Mission
+
+To transform ambitious ideas into **intelligent, scalable solutions** that solve real-world problems and push the boundaries of technology.
