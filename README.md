@@ -6,9 +6,9 @@ I'm a technology enthusiast holding a **diploma in IoT and Advanced Technologies
 
 My journey started with **Artificial Intelligence and Computer Vision**, leading me into freelance AI development and creative video production. Today, as a **Vibe Coder**, I've built **70+ modern, high-quality websites**, transforming business ideas into impactful digital experiences through web development and vibe coding.
 
-### 🤖 Exploring Agentic AI
+### 🤖 Exploring Generative AI & Agentic Systems
 
-Beyond the web, I'm exploring the future of **Agentic AI**, developing RAG-powered applications, fine-tuning models, and orchestrating multi-agent systems.
+I'm exploring the future of **Generative AI**, working with **Large Language Models (LLMs)**, building **Retrieval-Augmented Generation (RAG)** systems, and progressing toward **agentic harnesses and multi-agent architectures** to create intelligent, autonomous solutions that tackle real-world challenges.
 
 ### 🎯 My Mission
 
