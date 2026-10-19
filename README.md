@@ -4,7 +4,7 @@ I'm a technology enthusiast holding a **diploma in IoT and Advanced Technologies
 
 ### 💻 Web Development & AI
 
-My journey started with **Artificial Intelligence and Computer Vision**, leading me into freelance AI development and creative video production. Today, as a **Web Architect & Developer**, I've built **70+ modern, high-quality websites**, transforming business ideas into impactful digital experiences through web development and vibe coding.
+My journey started with **Artificial Intelligence and Computer Vision**, leading me into freelance AI development and creative video production. Today, as a **Vibe Coder**, I've built **70+ modern, high-quality websites**, transforming business ideas into impactful digital experiences through web development and vibe coding.
 
 ### 🤖 Exploring Agentic AI
 
