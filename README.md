@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Iyed Chebbi
 
-I'm a technology enthusiast from **Tunisia 🇹🇳**, holding a **diploma in IoT and Advanced Technologies**, passionate about building intelligent solutions at the intersection of AI and innovation.
+I'm a technology enthusiast from **Tunisia**, holding a **diploma in IoT and Advanced Technologies**, passionate about building intelligent solutions at the intersection of AI and innovation.
 
 ### 💻 Web Development & AI
 
