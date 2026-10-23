@@ -8,7 +8,7 @@ My journey began with **Artificial Intelligence and Computer Vision projects**, 
 
 ### 🤖 Exploring Generative AI & Agentic Systems
 
-I'm exploring the future of **Generative AI**, working with **Large Language Models (LLMs)**, building **Retrieval-Augmented Generation (RAG)** systems, and progressing toward **agentic harnesses and multi-agent architectures** to create intelligent, autonomous solutions that tackle real-world challenges.
+I'm exploring Generative AI, progressing from building simple chatbots to developing LLM-powered applications, RAG systems, and AI agents. I'm now advancing toward agentic harnesses and multi-agent architectures to create intelligent systems that automate workflows, use tools, and solve real-world problems.
 
 ### 🎬 AI Video Creation & Creative Storytelling
 
