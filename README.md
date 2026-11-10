@@ -16,4 +16,4 @@ I'm passionate about **AI-powered video creation**, producing engaging **UGC-sty
 
 ### 🎯 My Mission
 
-As an **AI Engineer**, I'm driven to build intelligent solutions that solve real-world problems and turn innovative ideas into reality.
+Today as an **AI Engineer**, I'm driven to build intelligent solutions that solve real-world problems and turn innovative ideas into reality.
