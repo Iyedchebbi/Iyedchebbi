@@ -1,19 +1,15 @@
 # 🚀 Hi, I'm Iyed Chebbi
 
-I'm a technology enthusiast from **Tunisia**, holding a **diploma in IoT and Advanced Technologies**, passionate about building intelligent solutions at the intersection of AI and innovation.
+I'm a technology enthusiast from **Tunisia**, holding a **diploma in IoT and Advanced Technologies**. My journey began in **IoT and Embedded Systems Engineering**, where I developed a foundation in connected technologies, hardware, and intelligent systems. This experience sparked my interest in **Artificial Intelligence**, leading me to transition toward AI development and innovation.
 
-### 💻 Web Development & AI
+### 💻 From IoT to Web Development & AI
 
-My journey began with **Artificial Intelligence and Computer Vision projects**, leading me to work as a **freelance AI developer and video creator** for an international marketing company.As a **Vibe Coder**, I've built **70+ modern, high-quality websites**, transforming business ideas into impactful digital experiences through web development and AI-powered workflows.
-
-### 🤖 Exploring Generative AI & Agentic Systems
-
-I'm exploring Generative AI, progressing from building simple chatbots to developing LLM-powered applications, RAG systems, and AI agents. I'm now advancing toward agentic harnesses and multi-agent architectures to create intelligent systems that automate workflows, use tools, and solve real-world problems.
+My transition into AI started with **Artificial Intelligence and Computer Vision projects**, followed by freelance work as an **AI developer and video creator** for an international marketing company. Along the way, I also explored web development as a **Vibe Coder**, building **70+ modern websites** and transforming business ideas into impactful digital experiences.
 
 ### 🎬 AI Video Creation & Creative Storytelling
 
-I'm passionate about **AI-powered video creation**, producing engaging **UGC-style videos, commercial advertisements, and cinematic content**. I also create **AI-driven storyboards** that transform creative concepts into compelling visual narratives, bridging the gap between imagination and production.
+I'm passionate about **AI-powered video creation**, producing engaging **UGC-style videos, commercial advertisements, and cinematic content**. I also create **AI-driven storyboards** that transform creative concepts into compelling visual narratives.
 
 ### 🎯 My Mission
 
-Today as an **AI Engineer**, I'm driven to build intelligent solutions that solve real-world problems and turn innovative ideas into reality.
+Today's mission as an AI Engineer: Exploring new AI technologies, building intelligent agents, experimenting with LLMs, RAG systems, and autonomous workflows. Turning complex ideas into practical solutions, one experiment at a time. Think, build, evaluate, and innovate. 🤖🚀
